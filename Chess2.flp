@@ -1,0 +1,47 @@
+﻿<flash_project name="Chess2" version="1">
+    <project_folder name="com" expanded="true">
+        <project_folder name="saydesign" expanded="true">
+            <project_folder name="pieces" expanded="true">
+                <project_file path="./com/saydesign/pieces/Bishop.as" filetype="as" />
+                <project_file path="./com/saydesign/pieces/King.as" filetype="as" />
+                <project_file path="./com/saydesign/pieces/Knight.as" filetype="as" />
+                <project_file path="./com/saydesign/pieces/Pawn.as" filetype="as" />
+                <project_file path="./com/saydesign/pieces/Queen.as" filetype="as" />
+                <project_file path="./com/saydesign/pieces/Rook.as" filetype="as" />
+            </project_folder>
+            <project_file path="./com/saydesign/Board.as" filetype="as" />
+            <project_file path="./com/saydesign/Castle.as" filetype="as" />
+            <project_file path="./com/saydesign/Check.as" filetype="as" />
+            <project_file path="./com/saydesign/ChessGUI.as" filetype="as" />
+            <project_file path="./com/saydesign/Color.as" filetype="as" />
+            <project_file path="./com/saydesign/Move.as" filetype="as" />
+            <project_file path="./com/saydesign/PieceType.as" filetype="as" />
+            <project_file path="./com/saydesign/Square.as" filetype="as" />
+            <project_file path="./com/saydesign/Performance.as" filetype="as" />
+            <project_file path="./com/saydesign/EndGameException.as" filetype="as" />
+            <project_file path="./com/saydesign/Engine.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_folder name="test" expanded="true">
+        <project_folder name="com" expanded="true">
+            <project_folder name="saydesign" expanded="true">
+                <project_file path="./test/com/saydesign/AllTests.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestBishopMoves.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestBoard.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestCheck.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestKingMoves.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestKnightMoves.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestPawnMoves.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestPieceType.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestQueenMoves.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestRookMoves.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestMove.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestEngine.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestPerformance.as" filetype="as" />
+                <project_file path="./test/com/saydesign/TestEndGameException.as" filetype="as" />
+            </project_folder>
+        </project_folder>
+    </project_folder>
+    <project_file path="./Tests.fla" filetype="fla" profile="" />
+    <project_file path="./Chess.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
